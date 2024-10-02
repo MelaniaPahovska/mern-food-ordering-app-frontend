@@ -3,7 +3,7 @@ import Layout from "./layouts/layout";
 import HomePage from "./pages/HomePage";
 import AuthCallbackPage from "./pages/AuthCallbackPage";
 import UserProfilePage from "./pages/UserProfilePage";
-import ProtectedRoute from "./auth/Protectedroute";
+import ProtectedRoute from "./auth/ProtectedRoute";
 
 const AppRoutes = () => {
   return (
